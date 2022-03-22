@@ -1,0 +1,3 @@
+export const PROXY_CONTRACT_ADDRESS=process.env.REACT_APP_PROXY_CONTRACT_ADDRESS;
+// export const OWNER_ADDRESS=process.env.REACT_APP_OWNER_ADDRESS;
+// export const SENDER_ADDRESS=process.env.REACT_APP_SENDER_ADDRESS;
